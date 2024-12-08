@@ -1,9 +1,16 @@
 Hi 👋 My name is lilidm
 =======================
+# Now in teresting.
+ - [x] RUST
+ - [x] Crpyto
+ - [x] Esp32
+ - [x] Automate workflow
+ - [x] Planting
+ - [x] Science
+ - [x] Math
 
-### Skills
 
-
+# Skills
 <p align="left">
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
