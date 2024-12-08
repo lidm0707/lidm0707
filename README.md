@@ -1,6 +1,6 @@
 Hi 👋 My name is lilidm
 =======================
-# Teresting.
+# Interesting.
  - [x] RUST
  - [x] Crpyto
  - [x] Esp32
