@@ -2,6 +2,7 @@ Hi 👋 My name is lilidm
 =======================
 # Interesting.
  - [x] RUST
+ - [x] Dioxus
  - [x] Crpyto
  - [x] Esp32
  - [x] Automate workflow
