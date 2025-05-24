@@ -1,7 +1,10 @@
-# Hi there 👋 I'm Lilidm!
+# Hi there 👋 I'm Moo!
 
 ### 🌟 About Me  
-I'm passionate about creating, learning, and innovating in a variety of fields.  
+I'm passionate about creating, learning, and innovating in the field of technology. I'm particularly interested in working with Rust and exploring its potential in building efficient and modern applications.
+
+I'm from Thailand, and I love diving into new challenges and opportunities that let me grow and contribute to exciting projects.
+
 Here are some of the topics that excite me:  
 - 🌿 **Planting**  
 - 🤖 **Automating Workflows**  
