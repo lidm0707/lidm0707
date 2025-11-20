@@ -35,6 +35,9 @@ Here are some of the topics that excite me:
 
 #### Tools & Technologies  
 <p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
   </a>
@@ -59,6 +62,7 @@ Here are some of the topics that excite me:
 ---
 
 ### 📬 Connect with Me  
-Feel free to reach out or follow my work:  
-[![GitHub](https://img.shields.io/badge/GitHub-lilidm-black?style=flat-square&logo=github)](https://github.com/lilidm)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lilidm-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lilidm)  
+Feel free to reach out or follow my work:
+
+[![GitHub](https://img.shields.io/badge/GitHub-lidm0707-black?style=flat-square&logo=github)](https://github.com/lidm0707)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kachon--wanglavan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kachon-wanglavan-4124a5216/)
